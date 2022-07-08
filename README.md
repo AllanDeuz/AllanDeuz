@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi
 
-<!--
-**AllanDeuz/AllanDeuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+currently in terms of **web development** I prefer to work with **react** + **sass** in the _frontend_, **laravel** in the _backend_ and the **mysql** or **postgresql** _database_.
 
-Here are some ideas to get you started:
+for the **development** of **automation applications** and **functions** for the treatment of **sound**, **data** or **others** I use **python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like learning.
+
+In particular, I am very interested in mathematics, science and engineering, and I would like to use that knowledge to contribute and generate a better world.
+
+_I am an eternal student and I like that :3_
+
+
+If you need help or support in any project, **contact me!**
+
+  #  email: tecontacto.programador@gmail.com
+  #  linkedin: https://www.linkedin.com/in/allan-arroyo-programador/
+  #  portafolio: https://porta-folio.netlify.app
+
+
+
+
+
+
